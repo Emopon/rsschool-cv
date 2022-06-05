@@ -1,7 +1,6 @@
 # **Olga Skiba**
 
-![Photo](https://drive.google.com/file/d/1O_WrTwb-Bj2flnHs5YHUWKRhnaZUiQRR/view?usp=sharing)
-****
+
 
 
 ### Contact information:
