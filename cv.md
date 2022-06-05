@@ -1,6 +1,6 @@
 # **Olga Skiba**
 
-![Photo](C:\Users\Holly\Downloads\1538053868283.jpg)
+![Photo](https://drive.google.com/file/d/1O_WrTwb-Bj2flnHs5YHUWKRhnaZUiQRR/view?usp=sharing)
 ****
 
 
