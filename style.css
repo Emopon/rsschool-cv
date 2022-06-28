@@ -1,0 +1,1358 @@
+
+/* header */
+position: absolute;
+width: 1440px;
+height: 90px;
+left: 0px;
+top: 0px;
+
+/* Frame 1 */
+
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 229px;
+gap: 10px;
+
+position: absolute;
+width: 103px;
+height: 41px;
+left: 1217px;
+top: 25px;
+
+background: #0D606F;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 2px 3px rgba(13, 96, 111, 0.16);
+border-radius: 10px;
+
+/* Login */
+width: 43px;
+height: 21px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* navigation */
+
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 42px;
+
+position: absolute;
+width: 527px;
+height: 21px;
+left: 494px;
+top: 35px;
+
+/* How It Works */
+
+width: 98px;
+height: 21px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Plan Your Trip */
+
+
+width: 105px;
+height: 21px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Destinations */
+
+
+width: 95px;
+height: 21px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Travel Stories */
+
+
+width: 103px;
+height: 21px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 3;
+flex-grow: 0;
+
+/* logo */
+
+
+position: absolute;
+width: 216px;
+height: 31px;
+left: 120px;
+top: 25px;
+
+
+/* Travel Portal */
+
+
+position: absolute;
+width: 180px;
+height: 31px;
+left: 156px;
+top: 25px;
+
+font-family: 'Magra';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+
+/* Vector */
+
+
+position: absolute;
+left: 8.33%;
+right: 89.58%;
+top: 0.7%;
+bottom: 98.5%;
+
+background: #FFFFFF;
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 1440px;
+height: 90px;
+left: 0px;
+top: 0px;
+
+background: rgba(242, 120, 92, 0.7);
+box-shadow: 0px 4px 4px rgba(13, 96, 111, 0.5);
+
+
+/* Plan your trip */
+
+
+position: absolute;
+width: 892px;
+height: 422px;
+left: 120px;
+top: 122px;
+
+/* search */
+
+
+position: absolute;
+width: 892px;
+height: 95px;
+left: 120px;
+top: 416px;
+
+/* What would you like to do? */
+
+
+position: absolute;
+width: 560px;
+height: 22px;
+left: 161px;
+top: 448px;
+
+font-family: 'Aleo';
+font-style: italic;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #F2785C;
+
+/* Frame 2 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 32px;
+gap: 10px;
+
+position: absolute;
+width: 228px;
+height: 59px;
+left: 766px;
+top: 434px;
+
+background: #0D606F;
+box-shadow: 0px 0px 3px rgba(13, 96, 111, 0.08), 0px 2px 3px rgba(13, 96, 111, 0.16);
+border-radius: 10px;
+
+/* Start Planning */
+
+
+width: 163px;
+height: 32px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 892px;
+height: 95px;
+left: 120px;
+top: 416px;
+
+background: rgba(255, 255, 255, 0.7);
+border-radius: 16px;
+
+/* Explore the beauty of the World */
+
+
+position: absolute;
+width: 892px;
+height: 422px;
+left: 120px;
+top: 122px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 96px;
+
+color: #FFFFFF;
+
+/* Receive personalized recommendations for countries, hotels, activities and more */
+
+
+position: absolute;
+width: 723px;
+height: 24px;
+left: 120px;
+top: 346px;
+
+font-family: 'Aleo';
+font-style: italic;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+/* 3 Steps */
+
+
+position: absolute;
+width: 1177px;
+height: 247px;
+left: 131px;
+top: 845px;
+
+/* 3 STEPS TO THE PERFECT TRIP */
+
+
+position: absolute;
+width: 611px;
+height: 53px;
+left: calc(50% - 611px/2);
+top: calc(50% - 53px/2 - 97px);
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #F2785C;
+
+/* Frame 27 */
+
+
+position: absolute;
+width: 1177px;
+height: 154px;
+left: 0px;
+top: 93px;
+
+/* Frame 24 */
+
+
+position: absolute;
+width: 247px;
+height: 154px;
+left: 0px;
+top: 0px;
+
+/* Frame 28 */
+
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 73px;
+top: 0px;
+
+/* Vector */
+
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 28%;
+bottom: 27%;
+
+background: #FFFFFF;
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: calc(50% - 100px/2);
+top: calc(50% - 100px/2);
+
+background: #F2785C;
+border-radius: 16px;
+
+/* Tell us what you want to do */
+
+
+position: absolute;
+width: 247px;
+height: 24px;
+left: 0px;
+top: 130px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #0D606F;
+
+/* Frame 25 */
+
+
+position: absolute;
+width: 222px;
+height: 154px;
+left: 478px;
+top: 0px;
+
+/* Frame 11 */
+
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 61px;
+top: 0px;
+
+/* Vector */
+
+
+position: absolute;
+left: 24%;
+right: 24%;
+top: 24%;
+bottom: 24%;
+
+background: #FFFFFF;
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: calc(50% - 100px/2);
+top: calc(50% - 100px/2);
+
+background: #F2785C;
+border-radius: 16px;
+
+/* Share us preferable dates */
+
+
+position: absolute;
+width: 222px;
+height: 24px;
+left: 0px;
+top: 130px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #0D606F;
+
+/* Frame 26 */
+
+
+position: absolute;
+width: 317px;
+height: 154px;
+left: 860px;
+top: 0px;
+
+/* Frame 12 */
+
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 109px;
+top: 0px;
+
+/* Vector */
+
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 28%;
+bottom: 27%;
+
+background: #FFFFFF;
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: calc(50% - 100px/2);
+top: calc(50% - 100px/2);
+
+background: #F2785C;
+border-radius: 16px;
+
+/* We will give you recommendations */
+
+
+position: absolute;
+width: 317px;
+height: 24px;
+left: 0px;
+top: 130px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #0D606F;
+
+
+/* Destinations */
+
+
+position: absolute;
+width: 2520px;
+height: 1042px;
+left: -540px;
+top: 1189px;
+
+/* POPULAR DESTINATIONS */
+
+
+position: absolute;
+width: 501px;
+height: 53px;
+left: 470px;
+top: 1189px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #F2785C;
+
+/* destinations */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 60px;
+
+position: absolute;
+width: 2520px;
+height: 800px;
+right: -540px;
+top: 1288px;
+
+/* Destination 1 */
+
+
+width: 800px;
+height: 800px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* SPAIN */
+
+
+position: absolute;
+width: 95px;
+height: 42px;
+left: calc(50% - 95px/2 - 1197.5px);
+top: calc(50% - 42px/2 + 339px);
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 800px;
+height: 800px;
+left: 0px;
+top: 0px;
+
+background: url(.jpg), #FFFFFF;
+border-radius: 16px;
+
+/* Destination 2 */
+
+
+width: 800px;
+height: 800px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* JAPAN */
+
+
+position: absolute;
+width: 108px;
+height: 42px;
+left: calc(50% - 108px/2 - 331px);
+top: calc(50% - 42px/2 + 339px);
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 800px;
+height: 800px;
+left: 860px;
+top: 0px;
+
+background: url(.jpg), #FFFFFF;
+border-radius: 16px;
+
+/* Destination 3 */
+
+
+width: 800px;
+height: 800px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* USA */
+
+
+position: absolute;
+width: 66px;
+height: 42px;
+left: calc(50% - 66px/2 + 508px);
+top: calc(50% - 42px/2 + 339px);
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 800px;
+height: 800px;
+left: 1720px;
+top: 0px;
+
+background: url(.jpg), #FFFFFF;
+border-radius: 16px;
+
+/* Frame 6 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 80px;
+height: 20px;
+left: 681px;
+top: 2112px;
+
+/* Ellipse 1 */
+
+
+width: 20px;
+height: 20px;
+
+background: rgba(242, 120, 92, 0.5);
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Ellipse 2 */
+
+
+width: 20px;
+height: 20px;
+
+background: #F2785C;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Ellipse 3 */
+
+
+width: 20px;
+height: 20px;
+
+background: rgba(242, 120, 92, 0.5);
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Frame 3 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 32px;
+gap: 10px;
+
+position: absolute;
+width: 228px;
+height: 59px;
+left: 607px;
+top: 2172px;
+
+background: #0D606F;
+box-shadow: 0px 0px 3px rgba(13, 96, 111, 0.08), 0px 2px 3px rgba(13, 96, 111, 0.16);
+border-radius: 10px;
+
+/* bi:arrow-right */
+
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Vector */
+
+
+position: absolute;
+left: 6.25%;
+right: 6.24%;
+top: 21.87%;
+bottom: 21.87%;
+
+background: #FFFFFF;
+
+/* Find More */
+
+
+width: 116px;
+height: 32px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Stories */
+
+
+position: absolute;
+width: 1201px;
+height: 1322px;
+left: 119px;
+top: 2311px;
+
+/* TRAVEL STORIES */
+
+
+position: absolute;
+width: 335px;
+height: 53px;
+left: 552px;
+top: 2311px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #F2785C;
+
+/* Story 1 */
+
+
+position: absolute;
+width: 1200px;
+height: 250px;
+left: 120px;
+top: 2444px;
+
+/* 10 Photos of Attractive Thailand */
+
+
+position: absolute;
+width: 760px;
+height: 42px;
+left: 560px;
+top: 2444px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+
+color: #0D606F;
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit... Read More */
+
+
+position: absolute;
+width: 760px;
+height: 184px;
+left: 560px;
+top: 2510px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #0D606F;
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 400px;
+height: 250px;
+left: 120px;
+top: 2444px;
+
+background: url(robin-noguier-sydwCr54rf0-unsplash.jpg);
+filter: drop-shadow(0px 4px 4px #0D606F);
+border-radius: 16px;
+
+/* Story 2 */
+
+
+position: absolute;
+width: 1200px;
+height: 250px;
+left: 120px;
+top: 2724px;
+
+/* Canyonlands National Park, Utah */
+
+
+position: absolute;
+width: 760px;
+height: 42px;
+left: 560px;
+top: 2724px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+
+color: #0D606F;
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit... Read More */
+
+
+position: absolute;
+width: 760px;
+height: 184px;
+left: 560px;
+top: 2790px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #0D606F;
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 400px;
+height: 250px;
+left: 120px;
+top: 2724px;
+
+background: url(.jpg);
+filter: drop-shadow(0px 4px 4px #0D606F);
+border-radius: 16px;
+
+/* Story 3 */
+
+
+position: absolute;
+width: 1200px;
+height: 250px;
+left: 120px;
+top: 3004px;
+
+/* I left my heart in the Mountains! */
+
+
+position: absolute;
+width: 760px;
+height: 42px;
+left: 560px;
+top: 3004px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+
+color: #0D606F;
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit... Read More */
+
+
+position: absolute;
+width: 760px;
+height: 184px;
+left: 560px;
+top: 3070px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #0D606F;
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 400px;
+height: 250px;
+left: 120px;
+top: calc(50% - 250px/2 + 1261.5px);
+
+background: url(.jpg);
+filter: drop-shadow(0px 4px 4px #0D606F);
+border-radius: 16px;
+
+/* Story 4 */
+
+
+position: absolute;
+width: 1200px;
+height: 250px;
+left: 119px;
+top: 3284px;
+
+/* The Longest journey in my life! */
+
+
+position: absolute;
+width: 760px;
+height: 42px;
+left: 559px;
+top: 3284px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+/* identical to box height */
+
+
+color: #0D606F;
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit... Read More */
+
+
+position: absolute;
+width: 760px;
+height: 184px;
+left: 559px;
+top: 3350px;
+
+font-family: 'Aleo';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #0D606F;
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 400px;
+height: 250px;
+left: 119px;
+top: calc(50% - 250px/2 + 1541.5px);
+
+background: url(dino-reichmuth-A5rCN8626Ck-unsplash.jpg);
+filter: drop-shadow(0px 4px 4px #0D606F);
+border-radius: 16px;
+
+/* Frame 4 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 32px;
+gap: 10px;
+
+position: absolute;
+width: 228px;
+height: 59px;
+left: 608px;
+top: 3574px;
+
+background: #0D606F;
+box-shadow: 0px 0px 3px rgba(13, 96, 111, 0.08), 0px 2px 3px rgba(13, 96, 111, 0.16);
+border-radius: 10px;
+
+/* bi:arrow-right */
+
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Vector */
+
+
+position: absolute;
+left: 6.25%;
+right: 6.24%;
+top: 21.87%;
+bottom: 21.87%;
+
+background: #FFFFFF;
+
+/* See More */
+
+
+width: 116px;
+height: 32px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* footer */
+
+
+position: absolute;
+width: 728.96px;
+height: 33.65px;
+left: 590px;
+top: 3688px;
+
+/* All Rights Reserved © Travel Portal */
+
+
+position: absolute;
+width: 260px;
+height: 21px;
+left: 590px;
+top: 3695px;
+
+font-family: 'Red Hat Text';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+/* social media */
+
+
+position: absolute;
+width: 140.96px;
+height: 33.65px;
+left: 1178px;
+top: 3688px;
+
+/* Frame 5 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+position: absolute;
+width: 140.96px;
+height: 33.65px;
+left: 1178px;
+top: 3688px;
+
+/* akar-icons:instagram-fill */
+
+
+width: 33.65px;
+height: 33.65px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+
+/* Vector */
+
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 4.17%;
+bottom: 4.17%;
+
+background: #F8F8F8;
+
+/* akar-icons:video */
+
+
+width: 33.65px;
+height: 33.65px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+
+/* Group */
+
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 16.67%;
+
+/* Vector */
+
+
+position: absolute;
+left: 41.67%;
+right: 37.5%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 4.16667px solid #F8F8F8;
+
+/* Vector */
+
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 16.67%;
+
+border: 4.16667px solid #F8F8F8;
+
+/* akar-icons:twitter-fill */
+
+
+width: 33.65px;
+height: 33.65px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+
+/* Vector */
+
+
+position: absolute;
+left: 3.9%;
+right: 1.49%;
+top: 11.45%;
+bottom: 11.64%;
+
+background: #F8F8F8;
+
+/* bg */
+
+
+position: absolute;
+width: 1445px;
+height: 3735px;
+left: 0px;
+top: 0px;
+
+/* garrett-parker-DlkF4-dbCOU-unsplash 1 */
+
+
+position: absolute;
+width: 1440px;
+height: 765px;
+left: 0px;
+top: 0px;
+
+background: url(garrett-parker-DlkF4-dbCOU-unsplash.jpg);
+
+
+/* bg */
+
+
+position: absolute;
+width: 1445px;
+height: 1270px;
+left: 0px;
+top: 2404px;
+
+background: rgba(255, 255, 255, 0.7);
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 1442px;
+height: 1331px;
+left: 0px;
+top: 2404px;
+
+background: url(.jpg);
+
